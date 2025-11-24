@@ -1,0 +1,28 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/c9d8d_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8f8785eb._.js",
+    "static/chunks/c9d8d_next_dist_compiled_react-dom_5652bf5a._.js",
+    "static/chunks/c9d8d_next_dist_compiled_next-devtools_index_5fe4f2a3.js",
+    "static/chunks/c9d8d_next_dist_compiled_38e2ba3d._.js",
+    "static/chunks/c9d8d_next_dist_client_9ca42d56._.js",
+    "static/chunks/c9d8d_next_dist_28d78a27._.js",
+    "static/chunks/60c92_@swc_helpers_cjs_a245036f._.js",
+    "static/chunks/OneDrive_Desktop_DAILY WELLNESS VOICE COMPANION_frontend_a0ff3932._.js",
+    "static/chunks/turbopack-OneDrive_Desktop_DAILY WELLNESS VOICE COMPANION_frontend_07e37791._.js"
+  ],
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];
