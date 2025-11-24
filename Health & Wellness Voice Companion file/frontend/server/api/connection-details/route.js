@@ -1,0 +1,11 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/connection-details/route.js")
+R.c("server/chunks/[root-of-the-server]__e1b49361._.js")
+R.c("server/chunks/c9d8d_next_34f246c9._.js")
+R.c("server/chunks/3be2b_@bufbuild_protobuf_dist_esm_97c5a867._.js")
+R.c("server/chunks/8c8c3_@livekit_protocol_dist_index_mjs_ae9dd1b5._.js")
+R.c("server/chunks/3fc6d_jose_dist_node_esm_e7d3a81b._.js")
+R.c("server/chunks/c267e_livekit-server-sdk_dist_5f7f8ea0._.js")
+R.c("server/chunks/[root-of-the-server]__3ddf3b1a._.js")
+R.m("[project]/OneDrive/Desktop/DAILY WELLNESS VOICE COMPANION/frontend/.next-internal/server/app/api/connection-details/route/actions.js [app-rsc] (server actions loader, ecmascript)")
+R.m("[project]/OneDrive/Desktop/DAILY WELLNESS VOICE COMPANION/frontend/node_modules/.pnpm/next@15.5.2_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OneDrive/Desktop/DAILY WELLNESS VOICE COMPANION/frontend/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/OneDrive/Desktop/DAILY WELLNESS VOICE COMPANION/frontend/node_modules/.pnpm/next@15.5.2_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OneDrive/Desktop/DAILY WELLNESS VOICE COMPANION/frontend/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
